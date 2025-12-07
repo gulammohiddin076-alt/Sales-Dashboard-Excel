@@ -36,7 +36,7 @@ The purpose of this dashboard is to analyze sales performance using charts, KPIs
 ---
 
 ## 👤 *Created By*
-GMD Kayani  
+M Gulam Mohi ud Din  
 Data Analyst  
 Excel | Accounts | Business Intelligence  
 
@@ -46,4 +46,4 @@ Excel | Accounts | Business Intelligence
 LinkedIn Profile: www.linkedin.com/in/muhammad-gulam-mohi-ud-din-40b352300
 
  
-GitHub Profile:
+GitHub Profile:https://github.com/gulammohiddin076-alt
